@@ -22,7 +22,9 @@ Traditional street lighting systems rely on manual operation or static timers, l
 * **Power Supply:**  USB
 * **Misc:** Breadboard & Jumper Wires
 
-* Working Principle & Physics Behind LDR
+  ---
+
+## 🔬 Working Principle & Physics Behind LDR
 The system operates based on the photoconductive properties of a Light Dependent Resistor (LDR) and an Arduino voltage divider network.
 🧪 Physics of the Photoresistor (LDR)
 Photoconductive Semiconductor: An LDR is constructed using high-resistance semiconductor materials (such as Cadmium Sulfide, CdS).
